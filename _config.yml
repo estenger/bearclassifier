@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/hacker
 title: Bear Classifier Homepage
 description: Small proof of concept image classifier for bears.
