@@ -1,4 +1,8 @@
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
+source "https://rubygems.org"
 
-gem "webrick", "~> 1.8"
+# gem "rails"
+gem "jekyll", "~> 3.9.0"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "jekyll-remote-theme", "~> 0.4.3"
+gem "jekyll-seo-tag", "~> 2.8"
+
